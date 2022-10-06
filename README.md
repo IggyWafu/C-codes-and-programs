@@ -1,2 +1,2 @@
-# C-codes-programs-
-Programs,class examples,assignments 
+# C++ codes and programs.
+Programs,class examples,assignments.
